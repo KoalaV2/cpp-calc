@@ -2,8 +2,8 @@
 
 
 int main() {
-    int first_number;
-    int second_number;
+    float first_number;
+    float second_number;
     char calc;
     std::cout << "Please enter your first number! \n :";
     std::cin >> first_number;
